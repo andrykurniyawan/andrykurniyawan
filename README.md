@@ -1,149 +1,169 @@
+<!-- ============================================================
+     ANDRI KURNIYAWAN — GitHub Profile README
+     Username: ganti "andrikurniyawan" sesuai username GitHub kamu
+     ============================================================ -->
+
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Andri%20Kurniyawan&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=blinking&desc=⚡%20Full%20Stack%20Developer%20⚡&descSize=18&descAlignY=80&descFontColor=a78bfa"/>
+</div>
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Andri%20Kurniyawan&fontSize=55&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20PHP%20Laravel%20%7C%20JavaScript%20%7C%20C%2B%2B&descAlignY=58&animation=fadeIn&descSize=16"/>
-
-<!-- TYPING SVG - reliable service -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Andri+Kurniyawan+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+PHP+%7C+JavaScript+Expert+%E2%9A%A1;C%2B%2B+%7C+Bootstrap+%7C+MySQL+%F0%9F%94%A5;Building+cool+things+one+line+at+a+time!+%F0%9F%8E%AF)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%F0%9F%9A%80+Building+the+web%2C+one+commit+at+a+time;%F0%9F%94%A5+Laravel+%7C+PHP+%7C+JavaScript+%7C+C%2B%2B+%7C+Bootstrap" alt="Typing"/>
+  </a>
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=andrikurniyawan&label=Profile%20Views&color=4f46e5&style=for-the-badge)
-&nbsp;
-![Made in Indonesia](https://img.shields.io/badge/Made%20in-Indonesia%20🇮🇩-dc2626?style=for-the-badge)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=andrikurniyawan&style=flat-square&color=302b63&label=👁️+Profile+Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🇮🇩-Indonesia-red?style=flat-square"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-4f46e5?style=flat-square&logo=handshake&logoColor=white"/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 `whoami`
 
-```php
-<?php
+<table>
+<tr>
+<td width="55%">
 
-class AndriKurniyawan extends Developer {
-
-    public string $name     = "Andri Kurniyawan";
-    public string $location = "Indonesia 🇮🇩";
-    public string $role     = "Full Stack Developer";
-
-    public array $frontend  = ["HTML5", "CSS3", "JavaScript", "Bootstrap", "jQuery"];
-    public array $backend   = ["PHP", "Laravel", "Node.js", "REST API"];
-    public array $languages = ["PHP", "JavaScript", "C++", "Python", "SQL"];
-    public array $database  = ["MySQL", "PostgreSQL", "SQLite"];
-    public array $tools     = ["Git", "GitHub", "VS Code", "Postman", "Composer"];
-
-    public function getCurrentFocus(): string {
-        return "Building scalable full-stack web apps with Laravel 🔥";
-    }
-
-    public function getFunFact(): string {
-        return "I debug in my dreams 😅 and Bootstrap is my best friend 💙";
-    }
-
-    public function getMotto(): string {
-        return "Code is poetry — make it beautiful! 🎨";
-    }
+```bash
+$ cat andri.json
+{
+  "name"     : "Andri Kurniyawan",
+  "role"     : "Full Stack Developer",
+  "base"     : "Indonesia 🇮🇩",
+  "stack"    : {
+    "frontend" : ["HTML", "CSS", "JS", "Bootstrap"],
+    "backend"  : ["PHP", "Laravel", "Node.js"],
+    "lang"     : ["PHP", "JavaScript", "C++", "Python"],
+    "db"       : ["MySQL", "PostgreSQL"]
+  },
+  "currently": "Crafting Laravel apps 🔥",
+  "hobbies"  : ["Coding", "Gaming", "Problem Solving"],
+  "motto"    : "Code is poetry 🎨"
 }
 ```
 
----
+</td>
+<td width="45%" align="center">
 
-## 🛠️ Tech Stack
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Framework
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 💻 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skill Level
+
+| Skill | Level | Bar |
+|:---|:---:|:---|
+| PHP / Laravel | 95% | `████████████████████` 🔥 |
+| HTML / CSS | 98% | `████████████████████` ✨ |
+| JavaScript | 90% | `██████████████████░░` ⚡ |
+| Bootstrap | 92% | `██████████████████░░` 🎨 |
+| C++ | 80% | `████████████████░░░░` 💪 |
+| MySQL / SQL | 85% | `█████████████████░░░` 🗄️ |
+| Python | 75% | `███████████████░░░░░` 🐍 |
+| Git & GitHub | 90% | `██████████████████░░` 🔧 |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andrikurniyawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrikurniyawan&theme=tokyonight&hide_border=true" width="49%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andrikurniyawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andrikurniyawan&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrikurniyawan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
+</div>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrikurniyawan&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"/>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrikurniyawan&theme=tokyonight&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+</div>
+
+---
+
+## 🌍 Contribution Map
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrikurniyawan&theme=tokyo-night&hide_border=true&area=true&point=A78BFA&line=4f46e5&color=c4b5fd"/>
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+| # | Project | Tech | Status |
+|:---:|:---|:---|:---:|
+| 01 | **🌐 Personal Portfolio** | Laravel · Bootstrap · JS | ✅ Live |
+| 02 | **🛒 E-Commerce Platform** | PHP Laravel · MySQL · REST API | ✅ Live |
+| 03 | **📊 Analytics Dashboard** | JavaScript · Chart.js · Bootstrap | 🔧 Dev |
+| 04 | **🔐 Auth & RBAC System** | Laravel Sanctum · JWT | ✅ Live |
+| 05 | **📝 Project Manager App** | Laravel · Bootstrap · MySQL | 🔧 Dev |
+| 06 | **🤖 CLI Tools** | C++ · Python | ✅ Done |
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrikurniyawan/andrikurniyawan/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrikurniyawan/andrikurniyawan/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/andrikurniyawan/andrikurniyawan/output/github-contribution-grid-snake.svg" alt="snake"/>
+  </picture>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrikurniyawan&theme=tokyonight&no-frame=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  > Setup snake: tambahkan GitHub Action **platane/snk** di repo kamu
 
 </div>
 
 ---
 
-## 📅 Contribution Graph
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrikurniyawan&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Deskripsi |
-|:---|:---|:---|
-| 🌐 **Portfolio Website** | Laravel + Bootstrap | Personal portfolio dengan admin panel |
-| 🛒 **E-Commerce App** | PHP Laravel + MySQL | Platform belanja online full-stack |
-| 📊 **Data Dashboard** | JavaScript + Chart.js | Dashboard analitik real-time |
-| 🔐 **Auth System** | Laravel Sanctum | Sistem autentikasi berbasis JWT/API |
-| 📝 **Task Manager** | Laravel + Bootstrap | Aplikasi manajemen proyek & tugas |
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrikurniyawan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andrikurniyawan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrikurniyawan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/andrikurniyawan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrikurniyawan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrikurniyawan)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrikurniyawan)
 
 </div>
 
 ---
 
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=a78bfa&fontAlignY=65&animation=twinkling"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-
-**⭐ Jangan lupa kasih star kalau kamu suka project-ku! ⭐**
-
-*Thanks for visiting — let's build something amazing together! 🚀*
-
+  <sub>⭐ Star my repos kalau kamu suka · Made with ❤️ by <b>Andri Kurniyawan</b></sub>
 </div>
