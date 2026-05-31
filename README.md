@@ -1,15 +1,201 @@
-# 💫 About Me:
-# GitHub Profile README Ultimate Aesthetic 2026<br><br>Buatkan GitHub Profile README yang PREMIUM, MODERN, AESTHETIC, PROFESSIONAL, dan RECRUITER-FRIENDLY dengan desain seperti top GitHub developers.<br><br>## Design Requirements<br>- Dark Theme<br>- Futuristic Style<br>- Clean Layout<br>- Responsive Design<br>- Modern Badges<br>- Professional Appearance<br>- Smooth Visual Hierarchy<br>- Attractive but not cluttered<br>- Suitable for Portfolio and Recruitment<br><br>---<br><br>## Hero Section<br><br>Tambahkan:<br><br>- Animated Typing SVG<br>- Nama lengkap besar di tengah<br>- Role/Title<br>- Short professional tagline<br>- Animated coding GIF<br>- Visitor Counter<br>- Profile Views<br>- Followers Badge<br>- Stars Badge<br><br>Contoh:<br><br>"Full Stack Developer | Laravel Developer | Open Source Enthusiast"<br><br>---<br><br>## About Me Section<br><br>Buat bagian:<br><br>### About Me<br><br>Isi:<br><br>- Nama<br>- Lokasi<br>- Pendidikan<br>- Fokus teknologi<br>- Saat ini sedang belajar<br>- Saat ini sedang mengerjakan project<br>- Tujuan karier<br>- Fakta menarik<br><br>Gunakan ikon yang menarik.<br><br>---<br><br>## Social Media Section<br><br>Tampilkan badge modern untuk:<br><br>- GitHub<br>- LinkedIn<br>- Instagram<br>- Twitter/X<br>- Facebook<br>- Discord<br>- YouTube<br>- TikTok<br>- Gmail<br>- Portfolio Website<br><br>Gunakan badge style modern.<br><br>---<br><br>## Tech Stack Section<br><br>Kelompokkan menjadi:<br><br>### Frontend<br>- HTML5<br>- CSS3<br>- JavaScript<br>- TypeScript<br>- Bootstrap<br>- Tailwind CSS<br>- React<br>- Next.js<br>- Vue<br><br>### Backend<br>- PHP<br>- Laravel<br>- Node.js<br>- Express.js<br><br>### Database<br>- MySQL<br>- PostgreSQL<br>- MongoDB<br>- Firebase<br><br>### Tools<br>- Git<br>- GitHub<br>- VS Code<br>- Postman<br>- Docker<br>- Figma<br>- Linux<br><br>Gunakan icon badge yang seragam.<br><br>---<br><br>## GitHub Statistics<br><br>Tambahkan:<br><br>### GitHub Stats<br><br>- Total Commits<br>- Total Stars<br>- Total Contributions<br>- Repository Count<br><br>### Most Used Languages<br><br>### GitHub Streak Stats<br><br>Gunakan tema dark modern.<br><br>---<br><br>## Activity Graph<br><br>Tambahkan:<br><br>- GitHub Activity Graph<br>- Contribution Calendar<br><br>Tema harus konsisten.<br><br>---<br><br>## GitHub Trophy Section<br><br>Tambahkan seluruh GitHub Trophy dengan layout modern.<br><br>---<br><br>## Contribution Snake Animation<br><br>Tambahkan Snake Contribution Animation terbaru.<br><br>Gunakan:<br><br>- Dark Theme<br>- Smooth Animation<br><br>---<br><br>## WakaTime Coding Stats<br><br>Tambahkan:<br><br>### Weekly Development Breakdown<br><br>Menampilkan:<br><br>- Coding Time<br>- Languages Used<br>- Editors Used<br>- Operating System<br><br>---<br><br>## Spotify Integration<br><br>Tambahkan:<br><br>### Now Playing<br><br>Menampilkan:<br><br>- Lagu yang sedang diputar<br>- Nama artis<br>- Cover album<br>- Progress bar<br><br>Jika tidak tersedia tampilkan fallback yang elegan.<br><br>---<br><br>## Featured Projects<br><br>Buat bagian:<br><br># Featured Projects<br><br>Tampilkan 6 project terbaik dengan card style.<br><br>Setiap project memiliki:<br><br>- Nama<br>- Deskripsi<br>- Tech Stack<br>- Demo Link<br>- Repository Link<br>- Status Badge<br><br>---<br><br>## Current Goals<br><br>Tambahkan:<br><br>### 2026 Goals<br><br>- Master Laravel<br>- Build SaaS Application<br>- Contribute Open Source<br>- Learn DevOps<br>- Learn Docker<br>- Learn Cloud Deployment<br><br>Gunakan checklist progress.<br><br>---<br><br>## Developer Metrics<br><br>Tambahkan:<br><br>- Lines of Code<br>- Repositories<br>- Contributions<br>- Followers<br>- Following<br>- Pull Requests<br>- Issues Closed<br><br>---<br><br>## Coding Journey<br><br>Buat timeline:<br><br>2023 → Belajar HTML & CSS<br><br>2024 → Belajar JavaScript & PHP<br><br>2025 → Laravel Development<br><br>2026 → Full Stack Development<br><br>Gunakan format visual timeline.<br><br>---<br><br>## Random Dev Quote<br><br>Tambahkan widget quote yang berubah otomatis.<br><br>---<br><br>## Random Programming Meme<br><br>Tambahkan meme programming yang otomatis berubah.<br><br>---<br><br>## Support Me<br><br>Tambahkan:<br><br>- GitHub Sponsors<br>- Buy Me A Coffee<br>- Ko-fi<br>- PayPal<br>- Saweria<br><br>Dengan badge modern.<br><br>---<br><br>## Footer<br><br>Tambahkan:<br><br>- Thank You for Visiting<br>- Wave Animation<br>- Back To Top Button<br><br>---<br><br>## Additional Requirements<br><br>- Gunakan markdown terbaik GitHub.<br>- Gunakan emoji seperlunya.<br>- Jangan membuat tampilan berantakan.<br>- Prioritaskan keterbacaan.<br>- Semua widget harus aktif.<br>- Semua badge harus konsisten.<br>- README harus terlihat seperti profil GitHub developer profesional kelas dunia.<br>- Gunakan layout yang modern dan aesthetic tahun 2026.<br>- Optimalkan untuk desktop dan mobile.<br>- Berikan kode README lengkap yang siap di-copy ke repository profile GitHub.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Andri%20Kurniyawan&fontSize=65&animation=twinkling&fontAlignY=40"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=andrykurniyawan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=andrykurniyawan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=andrykurniyawan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Laravel+Developer;Full+Stack+Developer+Learner;Student+Programmer;Always+Learning+New+Things;Welcome+To+My+GitHub+Profile"/>
+
+<img src="https://komarev.com/ghpvc/?username=andrykurniyawan&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/andrykurniyawan?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/andrykurniyawan?style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=andrykurniyawan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%">
+</p>
+
+---
+
+# 🚀 About Me
+
+```yaml
+name: Andri Kurniyawan
+role: Laravel Developer & Student
+focus: Full Stack Web Development
+
+currently_learning:
+  - Laravel Advanced
+  - REST API
+  - Docker
+  - DevOps
+
+currently_building:
+  - School Inventory System
+  - Laravel Library System
+  - Goods Lending Website
+
+goal_2026:
+  - Build SaaS Applications
+  - Contribute Open Source
+  - Learn Cloud Deployment
+```
+
+---
+
+# 🌐 Socials
+
+<p align="center">
+
+<a href="https://github.com/andrykurniyawan">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/xxxx">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/xxxx">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,git,github,vscode,postman,figma&perline=6"/>
+</p>
+
+---
+
+# 🤖 Coding Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="700">
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=andrykurniyawan\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=andrykurniyawan\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrykurniyawan\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrykurniyawan\&theme=tokyo-night)](https://github.com)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=andrykurniyawan\&theme=tokyonight\&row=2\&column=4)
+
+---
+
+# 🐍 Snake Contribution
+
+![Snake animation](https://github.com/andrykurniyawan/andrykurniyawan/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 🎮 Developer Terminal
+
+```bash
+$ whoami
+Andri Kurniyawan
+
+$ role
+Laravel Developer & Student
+
+$ stack
+PHP Laravel MySQL Bootstrap JavaScript
+
+$ status
+Building Awesome Projects 🚀
+```
+
+---
+
+# 📂 Featured Projects
+
+## 🏫 Sistem Inventaris Sekolah
+
+Laravel + MySQL + Bootstrap
+
+## 📚 Sistem Perpustakaan Laravel
+
+Laravel + MySQL + Bootstrap
+
+## 📦 Website Peminjaman Barang
+
+Laravel + MySQL + Bootstrap
+
+---
+
+# 🎯 Goals 2026
+
+* [x] HTML
+* [x] CSS
+* [x] JavaScript
+* [x] PHP
+* [x] Laravel
+* [ ] Docker
+* [ ] DevOps
+* [ ] SaaS Project
+* [ ] Open Source Contribution
+
+---
+
+# 📊 Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrykurniyawan\&theme=tokyonight)
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+# 😂 Random Programming Meme
+
+<img src="https://randommeme-five.vercel.app/" width="500"/>
+
+---
+
+# 👾 Hacker Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800">
+</p>
+
+---
+
+# ☕ Support Me
+
+<img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors">
+
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee">
+
+---
+
+<div align="center">
+
+## ⭐ Thanks For Visiting ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient"/>
+
+</div>
