@@ -1,6 +1,6 @@
 <!-- ============================================================
      ANDRI KURNIYAWAN — GitHub Profile README
-     Username: ganti "andrikurniyawan" sesuai username GitHub kamu
+     Username: ganti "andrykurniyawan" sesuai username GitHub kamu
      ============================================================ -->
 
 <div align="center">
@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=andrikurniyawan&style=flat-square&color=302b63&label=👁️+Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=andrykurniyawan&style=flat-square&color=302b63&label=👁️+Profile+Views"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🇮🇩-Indonesia-red?style=flat-square"/>
   &nbsp;&nbsp;
@@ -90,13 +90,13 @@ $ cat andri.json
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andrikurniyawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andrikurniyawan&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andrykurniyawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andrykurniyawan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrikurniyawan&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrykurniyawan&layout=donut&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ $ cat andri.json
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrikurniyawan&theme=tokyonight&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=andrykurniyawan&theme=tokyonight&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </div>
 
 ---
@@ -112,7 +112,7 @@ $ cat andri.json
 ## 🌍 Contribution Map
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrikurniyawan&theme=tokyo-night&hide_border=true&area=true&point=A78BFA&line=4f46e5&color=c4b5fd"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrykurniyawan&theme=tokyo-night&hide_border=true&area=true&point=A78BFA&line=4f46e5&color=c4b5fd"/>
 </div>
 
 ---
@@ -138,9 +138,9 @@ $ cat andri.json
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrikurniyawan/andrikurniyawan/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrikurniyawan/andrikurniyawan/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/andrikurniyawan/andrikurniyawan/output/github-contribution-grid-snake.svg" alt="snake"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrykurniyawan/andrykurniyawan/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrykurniyawan/andrykurniyawan/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/andrykurniyawan/andrykurniyawan/output/github-contribution-grid-snake.svg" alt="snake"/>
   </picture>
 
   > Setup snake: tambahkan GitHub Action **platane/snk** di repo kamu
@@ -153,10 +153,10 @@ $ cat andri.json
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrikurniyawan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/andrikurniyawan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrikurniyawan@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrikurniyawan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrykurniyawan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/andrykurniyawan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrykurniyawan@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrykurniyawan)
 
 </div>
 
