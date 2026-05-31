@@ -1,43 +1,45 @@
+# <div align="center">🚀 Andri Kurniyawan 🚀</div>
+
 <div align="center">
 
-# Hi 👋, I'm Andri Kurniyawan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Andri%20Kurniyawan&fontSize=55&fontAlignY=40&animation=twinkling"/>
 
-### Laravel Developer & Student
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Laravel+Developer;Full+Stack+Web+Development+Learner;Student+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Laravel+Developer;Student;Full+Stack+Developer+Learner;PHP+%7C+MySQL+%7C+JavaScript;Always+Learning+New+Things;Welcome+To+My+GitHub+Profile"/>
 
-<img src="https://komarev.com/ghpvc/?username=andrykurniyawan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=andrykurniyawan&style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/followers/andrykurniyawan?style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/andrykurniyawan?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Student passionate about web development
-
-💻 Focused on Laravel and PHP Development
-
-🌱 Currently learning:
-- Advanced Laravel
-- REST API Development
-- Database Optimization
-- Full Stack Development
-
-🎯 Goals for 2026:
-- Build Production Ready Applications
-- Contribute to Open Source Projects
-- Master Laravel Ecosystem
-- Learn Docker & Cloud Deployment
-
-⚡ Fun Fact:
-> "Every expert was once a beginner."
+```yaml
+Name: Andri Kurniyawan
+Role: Laravel Developer & Student
+Location: Indonesia
+Focus: Web Development
+Learning:
+  - Advanced Laravel
+  - REST API
+  - Docker
+  - Full Stack Development
+```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://instagram.com/xxxx">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -49,67 +51,95 @@
 <a href="https://github.com/andrykurniyawan">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 📊 GitHub Stats
+# 🎮 Developer Arcade
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=andrykurniyawan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+## 🐍 Snake Contribution
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrykurniyawan&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrykurniyawan&theme=tokyonight&hide_border=false&layout=compact)
+![Snake animation](https://github.com/andrykurniyawan/andrykurniyawan/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 💻 Tech Stack
 
-[![Andri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrykurniyawan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# 🚀 Learning Progress
+
+```text
+Laravel      ██████████ 100%
+PHP          ██████████ 100%
+MySQL        █████████░ 90%
+JavaScript   ████████░░ 80%
+Bootstrap    █████████░ 90%
+Docker       ██░░░░░░░░ 20%
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrykurniyawan&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrykurniyawan&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrykurniyawan&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrykurniyawan\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=andrykurniyawan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=andrykurniyawan&theme=tokyonight&row=2&column=4"/>
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/andrykurniyawan/andrykurniyawan/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ---
 
@@ -117,87 +147,115 @@
 
 ## 🏫 Sistem Inventaris Sekolah
 
-Aplikasi manajemen inventaris sekolah menggunakan Laravel dan MySQL.
+📌 Sistem manajemen inventaris sekolah berbasis Laravel.
 
-**Tech Stack:**
-- Laravel
-- PHP
-- Bootstrap
-- MySQL
+**Tech Stack**
+
+* Laravel
+* PHP
+* MySQL
+* Bootstrap
 
 ---
 
 ## 📚 Sistem Perpustakaan Laravel
 
-Website perpustakaan digital untuk pengelolaan buku dan peminjaman.
+📌 Website perpustakaan digital dengan fitur peminjaman buku.
 
-**Tech Stack:**
-- Laravel
-- PHP
-- Bootstrap
-- MySQL
+**Tech Stack**
+
+* Laravel
+* PHP
+* MySQL
+* Bootstrap
 
 ---
 
 ## 📦 Website Peminjaman Barang
 
-Sistem peminjaman dan pengembalian barang berbasis web.
+📌 Sistem peminjaman dan pengembalian barang berbasis web.
 
-**Tech Stack:**
-- Laravel
-- PHP
-- Bootstrap
-- MySQL
+**Tech Stack**
+
+* Laravel
+* PHP
+* MySQL
+* Bootstrap
+
+---
+
+# ⌚ WakaTime Stats
+
+```text
+PHP           10 hrs 20 mins ███████████░░░░
+Laravel       8 hrs 15 mins  █████████░░░░░░
+MySQL         5 hrs 10 mins  ██████░░░░░░░░░
+JavaScript    3 hrs 40 mins  ████░░░░░░░░░░░
+HTML/CSS      2 hrs 55 mins  ███░░░░░░░░░░░░
+```
+
+---
+
+# 🎵 Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID\&cover_image=true\&theme=novatorem)](https://spotify-github-profile.vercel.app)
 
 ---
 
 # 📅 Coding Journey
 
 ```text
-2023 ───── Learn HTML & CSS
-          │
-2024 ───── Learn JavaScript & PHP
-          │
+2023 ───── HTML & CSS
+           │
+2024 ───── JavaScript & PHP
+           │
 2025 ───── Laravel Development
-          │
+           │
 2026 ───── Full Stack Development
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals 2026
 
-- [x] Learn HTML & CSS
-- [x] Learn JavaScript
-- [x] Learn PHP
-- [x] Learn Laravel Basics
-- [ ] Build SaaS Project
-- [ ] Master REST API
-- [ ] Learn Docker
-- [ ] Learn Cloud Hosting
-- [ ] Open Source Contributions
+* [x] Learn HTML
+* [x] Learn CSS
+* [x] Learn JavaScript
+* [x] Learn PHP
+* [x] Learn Laravel
+* [ ] Build SaaS Project
+* [ ] Master REST API
+* [ ] Learn Docker
+* [ ] Learn Cloud Computing
+* [ ] Contribute Open Source
 
 ---
 
 # 📊 Developer Metrics
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrykurniyawan&theme=tokyonight)
-
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrykurniyawan\&theme=tokyonight)
 
 ---
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
 # 😂 Random Programming Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src="https://randommeme-five.vercel.app/" width="500"/>
+
+---
+
+# 👾 Coding GIF
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+
+</div>
 
 ---
 
@@ -209,12 +267,31 @@ Sistem peminjaman dan pengembalian barang berbasis web.
 
 ---
 
+# 🚀 Fun Terminal
+
+```bash
+$ whoami
+Andri Kurniyawan
+
+$ role
+Laravel Developer & Student
+
+$ current_focus
+Building Web Applications
+
+$ favorite_stack
+Laravel + PHP + MySQL + Bootstrap
+
+$ status
+Learning Never Stops 🚀
+```
+
+---
+
 <div align="center">
 
-### Thanks for visiting my profile 👨‍💻
+## ⭐ Thanks For Visiting My Profile ⭐
 
-⭐ Don't forget to follow and star my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 
 </div>
