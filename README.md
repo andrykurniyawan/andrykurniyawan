@@ -1,6 +1,6 @@
 <!-- ============================================================
      ANDRI KURNIYAWAN — GitHub Profile README
-     Username: ganti "andrykurniyawan" sesuai username GitHub kamu
+     Username: ganti "andry.dev" sesuai username GitHub kamu
      ============================================================ -->
 
 <div align="center">
