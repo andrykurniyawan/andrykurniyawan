@@ -1,4 +1,4 @@
-  <h3 id="hello-world-im-samir-mishra">Hello World, I’m Samir Mishra:</h3>
+  <h3 id="hello-world-im-andri-kurniyawan">Hello World, I’m Andri Kurniyawan:</h3>
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
@@ -87,4 +87,4 @@
 </tr></tbody></table>
 <hr>
 <p>Credits: <a href="https://github.com/smir45">smir45</a></p>
-<p>Last edited on: 18/08/2021</p></div> 
+<p>Last edited on: 18/08/2026</p></div> 
